@@ -11,7 +11,7 @@
       <v-col class='headercol' align="center" justify="center">
         <v-card class="headercard pt-15 mb-10" color="transparent" flat>
           <v-card-title>
-            <p class='headertitle'>Naoki's</p>
+            <p class='headertitle'>Kanogh's</p>
             <p class="headertitle headertitlebottom">Portfolio</p>
           </v-card-title>
         </v-card>
@@ -19,7 +19,7 @@
     </v-row>
     <v-row class="ma-0 pa-0">
       <v-col>
-        <v-btn class="ma-3" depressed elevation="10" fab @click="moveLink(`https://github.com/BRlackiver`)">
+        <v-btn class="ma-3" depressed elevation="10" fab @click="moveLink(`https://github.com/kanogh/portfolio`)">
           <v-icon>mdi-github</v-icon>
         </v-btn>
         <v-btn class="ma-3" depressed elevation="10" fab>

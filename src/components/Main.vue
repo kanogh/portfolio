@@ -17,7 +17,7 @@
                 <v-img src="./../assets/profile_avatar.png" alt="bear"></v-img>
               </v-avatar>
               <div class='profile_namediv'>
-                <p class='profile_name'>Naoki Kurokawa</p>
+                <p class='profile_name'>Kanogh</p>
               </div>
             </div>
           </v-img>
@@ -186,7 +186,7 @@
     border-radius: 10px;
   }
   .profile_namediv{
-    max-width:300px;
+    max-width:200px;
     margin:auto;
     background:rgb(0,0,0,0.1);
     box-shadow: 5px 5px 25px #3a3a3a;
