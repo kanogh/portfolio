@@ -1,10 +1,7 @@
 const functions = require("firebase-functions");
 const admin = require('firebase-admin');
 const nodemailer = require("nodemailer");
-const cors = require("cors")({ origin: true });
-
 admin.initializeApp();
-console.log(process.env)
 const outlookEmail = functions.config().outlook.email;
 const outlookPassword = functions.config().outlook.password;
 const adminEmail = functions.config().admin.email;
