@@ -1,24 +1,20 @@
-# my-project
+# ポートフォリオサイト
 
-## Project setup
-```
-npm install
-```
+## URL
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+(https://portfolio-f3d60.web.app/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 使用技術
 
-### Lints and fixes files
-```
-npm run lint
-```
+### 言語
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- JavaScript
+
+### フレームワーク
+
+- Vue.js
+- Vuetify
+
+### ホスティング
+
+- Firebase
